@@ -3,9 +3,24 @@
   "displayName": "Pork and Beans",
   "description": "No pork or beans were harmed in the making of this extension",
   "version": "0.0.1",
+  "publisher": "HighSpeedDirt",
   "engines": {
     "vscode": "^1.76.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwedmonds/pork-and-beans.git"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "high speed dirt",
+    "highspeeddirt",
+    "pork and beans",
+    "pork",
+    "colorful",
+    "dark"
+  ],
   "categories": [
     "Themes"
   ],
@@ -17,5 +32,9 @@
         "path": "./themes/Pork and Beans-color-theme.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.18.0",
+    "vsce": "^2.15.0"
   }
 }
