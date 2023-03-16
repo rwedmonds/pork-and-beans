@@ -4,6 +4,6 @@
 
 ### Please feel free to fork this repo, make changes, and submit a pull request with your changes to make this the best theme we can
 
-![Pork and Beans!](https://github.com/rwedmonds/pork-and-beans/blob/main/images/pork_and_beans.png)
+![Pork and Beans!](images/pork_and_beans.png)
 
-![terminal](https://github.com/rwedmonds/pork-and-beans/blob/main/images/terminal.pngs)
+![terminal](images/terminal.png)
