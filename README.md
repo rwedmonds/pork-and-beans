@@ -8,4 +8,4 @@ Please feel free to fork this repo, make changes, and submit a pull request with
 
 ![version control](./images/pork_and_beans_version_control.png)
 
-![find and replace](./images/find_and_replace.png)
+![remote-ssh session](./images/remote_ssh.png)
