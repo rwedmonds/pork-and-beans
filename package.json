@@ -1,0 +1,21 @@
+{
+  "name": "pork-and-beans",
+  "displayName": "Pork and Beans",
+  "description": "No pork or beans were harmed in the making of this extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pork and Beans",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pork and Beans-color-theme.json"
+      }
+    ]
+  }
+}
