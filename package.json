@@ -24,6 +24,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/highspeeddirt.jpg",
   "contributes": {
     "themes": [
       {
