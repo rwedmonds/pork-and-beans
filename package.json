@@ -2,7 +2,7 @@
   "name": "pork-and-beans",
   "displayName": "Pork and Beans",
   "description": "No pork or beans were harmed in the making of this extension",
-  "version": "0.7.0",
+  "version": "0.9.0",
   "publisher": "HighSpeedDirt",
   "engines": {
     "vscode": "^1.76.0"
@@ -24,7 +24,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/highspeeddirt.jpg",
+  "icon": "images/pork and beans.png",
   "contributes": {
     "themes": [
       {
