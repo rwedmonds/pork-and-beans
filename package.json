@@ -25,7 +25,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "images/pork and beans.png",
+  "icon": "images/pork_and_beans_logo.png",
   "contributes": {
     "themes": [
       {
