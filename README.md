@@ -1,9 +1,17 @@
 # Pork and Beans
 
-## No pork or beans were harmed in the making of this theme
+## Dark color theme with enough contrast to be easy on the eyes
 
-### Please feel free to fork this repo, make changes, and submit a pull request with your changes to make this the best theme we can
+### Light version coming soon
 
-![Pork and Beans!](https://github.com/rwedmonds/pork-and-beans/blob/main/images/pork_and_beans.png?raw=true)
+### Please feel free to fork [this repo](https://github.com/rwedmonds/pork-and-beans), make changes, and submit a pull request with your changes to make this the best theme we can
 
-![terminal](https://github.com/rwedmonds/pork-and-beans/blob/main/images/terminal.png?raw=true)
+> Images include the VSCode Icons icon theme
+
+![HTML](https://github.com/rwedmonds/pork-and-beans/blob/main/images/commit.png?raw=true))
+
+![Terminal](https://github.com/rwedmonds/pork-and-beans/blob/main/images/oh-my.png?raw=true)
+
+![Markdown Preview](https://github.com/rwedmonds/pork-and-beans/blob/main/images/markdown.png?raw=true))
+
+![Git Diff](https://github.com/rwedmonds/pork-and-beans/blob/main/images/git-diff.png?raw=true))
