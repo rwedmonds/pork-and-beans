@@ -10,6 +10,10 @@
 
 ![Pork and Beans!](https://github.com/rwedmonds/pork-and-beans/blob/main/images/pork_and_beans.png?raw=true)
 
-![Terminal](https://github.com/rwedmonds/pork-and-beans/blob/main/images/terminal.png?raw=true)
+![Terminal](https://github.com/rwedmonds/pork-and-beans/blob/main/images/oh-my.png?raw=true)
 
 ![Markdown Preview](https://github.com/rwedmonds/pork-and-beans/blob/main/images/markdown.png?raw=true))
+
+![Git Diff](https://github.com/rwedmonds/pork-and-beans/blob/main/images/git-diff.png?raw=true))
+
+![HTML](https://github.com/rwedmonds/pork-and-beans/blob/main/images/commit.png?raw=true))
