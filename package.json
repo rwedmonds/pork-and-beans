@@ -1,8 +1,8 @@
 {
   "name": "pork-and-beans",
   "displayName": "Pork and Beans",
-  "description": "No pork or beans were harmed in the making of this extension",
-  "version": "0.9.1",
+  "description": "Dark color theme with enough contrast to be easy on the eyes",
+  "version": "0.9.2",
   "publisher": "HighSpeedDirt",
   "engines": {
     "vscode": "^1.76.0"
